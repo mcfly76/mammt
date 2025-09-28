@@ -22,7 +22,7 @@ I’ll walk through fire and through rain
             padding: 0;
             width: 100%;
             height: 100%;
-            font-size: 2.2vh;
+            font-size: 2vh;
             font-family: 'Open Sans', Arial, sans-serif;
             color: white;
             background: url('https://i.postimg.cc/ry3p76HY/italian-seamless-free-vector-pattern3.png') center center repeat;
