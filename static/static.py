@@ -1,10 +1,10 @@
 HTML = """
-Don’t care about them all
+Dont care about them all
 Cause all I want is to be loved
 And all I care about is you
-You’re stuck on me like a tattoo
-No, I don’t care about the pain
-I’ll walk through fire and through rain
+Youre stuck on me like a tattoo
+No, I dont care about the pain
+Ill walk through fire and through rain
 """
 <!DOCTYPE html>
 <html>
@@ -22,7 +22,7 @@ I’ll walk through fire and through rain
             padding: 0;
             width: 100%;
             height: 100%;
-            font-size: 2vh;
+            font-size: 2.2vh;
             font-family: 'Open Sans', Arial, sans-serif;
             color: white;
             background: url('https://i.postimg.cc/ry3p76HY/italian-seamless-free-vector-pattern3.png') center center repeat;
